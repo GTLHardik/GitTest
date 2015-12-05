@@ -9,7 +9,7 @@ namespace TestGitApp
     {
         static void Main(string[] args)
         {
-
+            Console.Write("Hello !");   
         }
     }
 }
